@@ -215,8 +215,9 @@ body {
 }
 
 #jqt ul li a.active {
-    background-color: #194fdb;
-    color: #fff;
+    background: #238fe7;
+   	background: -webkit-gradient(linear, left top, left bottom, from(#238fe7), to(#015de6));
+	color: #fff;
 }
 #jqt ul li.arrow a.active {
     background-image: url(img/listArrowSel.png);
